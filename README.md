@@ -1,11 +1,5 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Presentation for UChicago EC35600 Class
 
-To start the slide show:
+Presenting ["Channeling Fisher: Randomization Tests and the Statistical Insignificance of Seemingly Significant Experimental Results"](https://academic.oup.com/qje/article/134/2/557/5195544) by Alwyn Young, QJE 2019.
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+Slides created using [slidev](https://sli.dev/).
